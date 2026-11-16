@@ -1,0 +1,1 @@
+# lab1_osadcha_im52_kpi
