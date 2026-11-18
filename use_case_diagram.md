@@ -9,4 +9,4 @@
 - **UC-07: Погасити штраф** – Проведення Бібліотекарем погашення нарахованого читачеві штрафу.
 
 ## 2. Діаграма прецедентів використання (PlantUML)
-<img width="927" height="640" alt="image" src="https://github.com/user-attachments/assets/fe88d67e-eab7-4664-982d-ef72f5456f24" />
+<img width="955" height="636" alt="image" src="https://github.com/user-attachments/assets/a7a9c8b0-4701-44b4-b7ed-447db2190af3" />
