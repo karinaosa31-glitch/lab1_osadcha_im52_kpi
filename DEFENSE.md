@@ -24,7 +24,7 @@
    * *Коміт:* [b393ecb](https://github.com/karinaosa31-glitch/lab1_osadcha_im52_kpi/commit/b393ecbd2e954a9ff8ebfb13117a9601a67c02cb)
 
 ## Ключове рішення — які альтернативи зважив і чому обрав цю (ADR)
-У документі [ADR-001](adr/ADR-001) розглянуто два варіанти моделювання зв'язку багато-до-багатьох (`M:N`) між сутностями `book` та `author`:
+У документі [ADR-001](https://github.com/karinaosa31-glitch/lab1_osadcha_im52_kpi/blob/lab2/adr/ADR-001.md) розглянуто два варіанти моделювання зв'язку багато-до-багатьох (`M:N`) між сутностями `book` та `author`:
 1. Прямий зв'язок `M:N` між `book` та `author` виділення окремої сполучної сутності.
 2. Введення сполучної сутності `book_author `(book_id, author_id)` без власних атрибутів, лише з двома зовнішніми ключами `(book_id, author_id)`.
 
